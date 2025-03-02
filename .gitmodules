@@ -1,0 +1,12 @@
+[submodule "spaces/LaBSE-kbd-v0.1"]
+	path = spaces/LaBSE-kbd-v0.1
+	url = git@hf.co:spaces/panagoa/LaBSE-kbd-v0.1
+[submodule "spaces/kbd-pos-tagger"]
+	path = spaces/kbd-pos-tagger
+	url = git@hf.co:spaces/panagoa/kbd-pos-tagger
+[submodule "spaces/nllb-200-distilled-600M-kbd"]
+	path = spaces/nllb-200-distilled-600M-kbd
+	url = git@hf.co:spaces/panagoa/nllb-200-distilled-600M-kbd
+[submodule "spaces/xlm-roberta-base-kbd"]
+	path = spaces/xlm-roberta-base-kbd
+	url = git@hf.co:spaces/panagoa/xlm-roberta-base-kbd
